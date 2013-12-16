@@ -1,6 +1,0 @@
-meta:type:manifest{
-name:"TYPE HERE NAME OF YOUR MOD"
-version:"1.0"
-author:"YOUR NAME"
-main:"./YOURCOMPANYIDENTIFIER/main.mcmodule"
-}
